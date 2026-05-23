@@ -17,9 +17,9 @@ dijkstra-project/
 4. Mark the vertex as visited
 5. Repeat until all vertices are visited
 ## Classes
-- **Edge** stores destination vertex and edge weight
-- **Graph** stores adjacency list of weighted edges
-- **dijkstra()** implements the algorithm using arrays and simple loops
+**Edge** stores destination vertex and edge weight
+**Graph** stores adjacency list of weighted edges
+**dijkstra()** implements the algorithm using arrays and simple loops
 ## Example Output
 Shortest paths from vertex 0:
   Vertex 0: 0
